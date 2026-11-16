@@ -35,11 +35,6 @@ nav ul {
     display: flex;
     gap: 25px;
 }
-nav h1{
-    background-color: #3b82f6;
-    color: white;
-    border-radius: 7%;
-}
 header{
     background-color: #1e40af;
     color: #f1f5f9;
